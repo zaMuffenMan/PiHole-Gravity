@@ -1,0 +1,11 @@
+ads-pres.channel4.com
+cdn.http.anno.channel4.com
+cdn.ss.anno.channel4.com
+toots-a.akamaihd.net
+trk-euwest.tidaltv.com
+2356e.v.fwmrm.net
+p.videologygroup.com
+securecdn.videologygroup.com
+
+# NEEDED FOR UKTV PLAY - doesn't seem necessary to block this for All4 any more
+#2a7e9.v.fwmrm.net
